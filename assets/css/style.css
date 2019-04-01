@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url('../images/backgroundimage.png');
+    background-image: url('https://img.huffingtonpost.com/asset/5be5ee181f0000ff0426349c.jpeg?ops=scalefit_720_noupscale');
     background-size: cover;
     background-position: fixed;
   }
@@ -18,4 +18,5 @@ body{
 
  #buttonAnswer{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
  }

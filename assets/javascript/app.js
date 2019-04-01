@@ -136,7 +136,7 @@ $(document).ready(function () {
 
     // when you click the start button
     $("#start").on('click', function () {
-        var timer = 10;
+        var timer = 45;
         askQuestions();
         setInterval(function () {
             timer--;
