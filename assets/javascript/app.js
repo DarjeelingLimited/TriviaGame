@@ -147,8 +147,6 @@ $(document).ready(function () {
                 document.getElementById("start").style.display = "none"; // 
                 $("#done").show();
                 console.log(timer)
-                $("#done").on(click, check())
-
             }
 
             if (timer === 0) {
