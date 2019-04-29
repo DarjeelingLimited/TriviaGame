@@ -6,6 +6,10 @@ What this project does
 This project shows 6 trivia questions that only have 1 correct answer each. One the user clicks the 'start' button, the timer counts down until it runs out. 
 The user must answer the questions within the given time limit, and a score will be calculated upon quiz completion. 
 
+Technical approach
+
+I created the trivia questions first and then built the 'scoring' in. After confirming that this would work for correct and incorrect answers, I implemented the timer and would leverage using 'console.log' to quickly adjust the timer when testing.
+
 Why the project is useful
 
 This project demonstrates the use of javascript/jQuery to look for click events, append new elements, and compare array items to the user choice (to calculate score). 
