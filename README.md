@@ -11,6 +11,9 @@ Why the project is useful
 This project demonstrates the use of javascript/jQuery to look for click events, append new elements, and compare array items to the user choice (to calculate score). 
 How users can get started with the project
 
+Deployed link
+https://darjeelinglimited.github.io/TriviaGame/
+
 Users can interact with this game by clicking the star button, and the timer will begin. 
 The user will either leave a value answered, or unanswered. 
 When the timer runs out, the user will see the number of questions they got correct, incorrect, or if they were unanswered. 
